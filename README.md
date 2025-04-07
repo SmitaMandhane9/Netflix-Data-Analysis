@@ -2,7 +2,7 @@
 
 This project focuses on performing data mining on the Netflix dataset, sourced from Kaggle Netflix Dataset (https://www.kaggle.com/datasets/shivamb/netflix-shows). The dataset contains information about Netflix’s extensive catalog of TV shows and movies, including attributes such as title, director, cast, country, release year, rating, and duration.
 
-**Objectives**
+**Objectives**:
 The primary goals of this project are:
 
 - Data Cleaning: Removing duplicates, handling missing values, and preparing the dataset for analysis.
@@ -10,7 +10,7 @@ The primary goals of this project are:
 - Visualizations: Generating visual insights through bar charts, pie charts, heatmaps, and word clouds.
 - Advanced Data Mining: Exploring relationships between directors and actors, performing sentiment analysis on descriptions, and identifying correlations between numeric variables.
 
-**Problem Discussion**
+**Problem Discussion**:
 The key problem addressed in this project revolves around understanding the evolution of Netflix’s content library over time and across different categories, such as TV shows and movies. We aim to answer questions like:
 
 - How has Netflix’s content changed over the years in terms of volume?
