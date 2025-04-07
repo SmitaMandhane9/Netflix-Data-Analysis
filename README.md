@@ -33,3 +33,8 @@ By answering these questions, we can gain insights into content distribution, re
 - Seaborn & Matplotlib: For creating visualizations.
 - TextBlob: For sentiment analysis.
 - NetworkX: For creating network graphs to understand relationships between directors and actors.
+
+## References
+- [techtarget](https://www.techtarget.com/searchbusinessanalytics/definition/data-mining#:~:text=Data%20mining%20is%20the%20process,make%20more%20informed%20business%20decisions.)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/data-mining/)
+- [snowflake](https://www.snowflake.com/guides/data-pipeline/)
